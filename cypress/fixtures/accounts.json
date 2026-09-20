@@ -1,0 +1,17 @@
+[
+  {
+    "username": "Cindy.D.Oppus@prulifeuk.com.ph",
+    "password": "CindyDOppus@12345",
+    "role": "Assessor"
+  },
+  {
+    "username": "cyrene.cayl.barrera@prulifeuk.com.ph",
+    "password": "Pluk@1234",
+    "role": "Processor"
+  },
+  {
+    "username": "RhommelT",
+    "password": "Pluk@1234",
+    "role": "Approver"
+  }
+]
